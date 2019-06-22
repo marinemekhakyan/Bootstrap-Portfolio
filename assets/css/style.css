@@ -5,6 +5,7 @@ body {
 
 .navbar {
     background-color: white;
+    color: #777777;
     width: 100%;
     height: 90px;
     margin: 0px;
@@ -18,10 +19,9 @@ body {
 
 .name-box {
     width: 350px;
-    height: 90px;
+    height: 80px;
     background-color: #4aaaa5;
-    margin-left: 200px; 
-    margin-top: 0px;
+    margin-left: 185px;
 
 }
 
@@ -38,7 +38,12 @@ h1 {
     float: right;
     margin-top: 40px;
     margin-right: 240px;
+    background-color: white;
 
+}
+
+#about {
+    background-color: #7777;
 }
 
 
@@ -97,57 +102,24 @@ p {
     margin: 0px;
     padding-right: 10px;
     padding-left: 10px;
-    max-width: 960px;
-}
-
-#contact {
-    color: #4aaaa5;
     
 }
-
-
-#fname {
-    width: 930px;
-    height: 20px;
-    margin-left: 10px;
-    margin-bottom: 7px;
-}
-
-#email {
-    width: 930px;
-    height: 20px;
-    margin-left: 10px;
-    margin-bottom: 7px;
    
-}
-
 #messagefld {
     width: 930px;
     height: 150px;
-    margin-left: 10px;
-    margin-bottom: 10px;
+    margin: 0px;
     margin-top: 5px;
 }
 
 #message {
     margin-left: 10px;
-
-}
-
-#fname {
-    margin-top: 5px;
-    margin-bottom: 10px;
-}
-
-#email {
-    margin-top: 5px;
-    margin-bottom: 10px;
 }
 
 .submit-button {
     background-color: #4aaaa5;
     color: white;
-    margin-left: 10px;
+    margin-bottom: 10px;
     height: 25px;
 }
 
