@@ -97,7 +97,7 @@ p {
     margin: 0px;
     padding-right: 10px;
     padding-left: 10px;
-    margin
+    max-width: 960px;
 }
 
 #contact {
